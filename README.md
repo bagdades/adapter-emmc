@@ -1,0 +1,2 @@
+# adapter-emmc
+adapter emmc
